@@ -1,0 +1,25 @@
+body {
+	background-color: #000;
+}
+
+/* @import url('main.css') */
+
+h1 {
+	color: red;
+}
+
+.text {
+	color: green;
+}
+
+#text-1 {
+	color: blue;
+}
+
+.header{
+	text-transform: uppercase;
+}
+
+.block {
+	color: red;
+}
